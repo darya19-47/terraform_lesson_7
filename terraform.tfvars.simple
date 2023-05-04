@@ -1,0 +1,18 @@
+do_token = ""
+my_ssh_key_name = ""
+my_ssh_key_path = ""
+rebrain_ssh_key = "REBRAIN.SSH.PUB.KEY"
+parameters = {
+    cpu_size = 1
+    ram_size = 1024
+    disk_size = 25
+    image_type = "ubuntu-20-04-x64"
+    image_name = "Ubuntu
+}
+devops_tag = "devops"
+email_tag = "dariasandbergm_at_gmail_com"
+aws_access_key = ""
+aws_secret_key = ""
+aws_region = ""
+aws_zone = ""
+vps_count = 5
